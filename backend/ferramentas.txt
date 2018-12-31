@@ -1,0 +1,4 @@
+knex:  Utilizado para vincular as tabelas do banco de dados, criando, deletando e acessando dados do banco de dados
+bcrypt: Utilizado para encriptar a senha do usúario
+mongoose: Utilizado para conectar banco não relacional mongodb.
+node_schedule: serve para sincronizar os dados dos bancos.
